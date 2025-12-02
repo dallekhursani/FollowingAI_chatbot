@@ -25,10 +25,10 @@ This project demonstrates a clean, production-ready API architecture for multi-t
 |
 │ LLM SERVICE │
 │ GPT / Llama / Custom API │
-│
+|
 │ MEMORY / CONTEXT UNIT │
 │ Stores multi-turn chat │
-│
+|
 │ RESPONSE GENERATOR │
 
 let's dive into
