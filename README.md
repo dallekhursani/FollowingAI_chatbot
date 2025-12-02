@@ -19,20 +19,16 @@ This project demonstrates a clean, production-ready API architecture for multi-t
 
 │ FRONTEND │ (Optional)
 │ Streamlit / Gradio / Web UI
-│
-▼
+|
 │ BACKEND API │
 │ FastAPI Layer │
-│
-▼
+|
 │ LLM SERVICE │
 │ GPT / Llama / Custom API │
 │
-▼
 │ MEMORY / CONTEXT UNIT │
 │ Stores multi-turn chat │
 │
-▼
 │ RESPONSE GENERATOR │
 
 let's dive into
