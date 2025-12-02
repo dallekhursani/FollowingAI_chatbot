@@ -1,0 +1,13 @@
+followingai-chatbot/
+│
+├── app/
+│   ├── main.py
+│   ├── schemas.py
+│   ├── config.py
+│   ├── services/
+│   │     └── llm_service.py
+│   └── utils/
+│         └── memory.py
+│
+├── requirements.txt
+└── README.md
